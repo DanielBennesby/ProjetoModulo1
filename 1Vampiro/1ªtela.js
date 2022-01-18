@@ -11,7 +11,7 @@ function vampiro1() {
         }
         else {
             alert("Digite 1 ou 2, como foi pedido");
-            break
+            
         }
     }
 }
